@@ -1,3 +1,19 @@
+# Opa galera do grupo, Esse é o Layout atualizado do aplicativo por enquanto
+
+Para instalar as bibliotecas que ultilizei, só mandar antes de tudo um 
+   ```bash
+   npm install
+   ```
+Para baixar a pasta node-modules
+
+
+Segue o guia do Expo, lembrando que é preciso ter o android Studio com um device emulado
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
